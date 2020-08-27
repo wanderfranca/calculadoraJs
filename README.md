@@ -7,7 +7,9 @@ todas as funcionalidades em Javascript
 ### Funcionalidades:
 
 1 - Ao clicar duas vezes no botão "AC" é possível habilitar e desabilitar o áudio
+
 2 - Inteligência no botão igual e nos botões de operações
+
 3 - Função de estouro demonstrando "ERROR"
 
 Obs: Comentei o código em português, porém o código está em inglês, pois estou aprendendo a programar em inglês como ensina no curso.
