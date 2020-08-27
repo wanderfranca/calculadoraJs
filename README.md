@@ -13,4 +13,4 @@ todas as funcionalidades em Javascript
 Obs: Comentei o código em português, porém o código está em inglês, pois estou aprendendo a programar em inglês como ensina no curso.
 
 ### Projeto
-! [](desmonstracao.gif)
+![](demonstracao.gif)
