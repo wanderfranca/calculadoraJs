@@ -1,8 +1,16 @@
-# Calculadora JavaScript
+# Calculadora em JavaScript
 
-[![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
+Calculadora desenvolvida em JavaScript.
+O código HTML pode parecer confuso para quem não o conhece, pois foi criado em Illustrator (.SVG), a partir dele foi possível desebvolver
+todas as funcionalidades em Javascript
 
-Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.com.
+### Funcionalidades:
+
+1 - Ao clicar duas vezes no botão "AC" é possível habilitar e desabilitar o áudio
+2 - Inteligência no botão igual e nos botões de operações
+3 - Função de estouro demonstrando "ERROR"
+
+Obs: Comentei o código em português, porém o código está em inglês, pois estou aprendendo a programar em inglês como ensina no curso.
 
 ### Projeto
-![Calculadora](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/calculadora-hcode.jpg?alt=media&token=5406aa3f-b965-401c-9b4e-654609c78b33)
+(https://i.imgur.com/CA8hye1.gif)
