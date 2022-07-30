@@ -17,5 +17,5 @@ criei utilizando o conceito de orientação a objeto, então está fácil de rea
 
 Obs: Comentei o código em português, porém o código está em inglês, pois estou aprendendo a programar em inglês como ensina no curso.
 
-### Projeto
+### Demonstração
 ![](demonstracao.gif)
