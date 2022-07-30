@@ -1,8 +1,11 @@
 # Calculadora em JavaScript
 
 Calculadora desenvolvida em JavaScript.
-O código HTML pode parecer confuso para quem não o conhece, pois foi criado em Illustrator (.SVG), a partir dele foi possível desebvolver
-todas as funcionalidades em Javascript
+O código HTML pode parecer confuso para quem não o conhece, pois foi criado em Illustrator (.SVG), a partir dele foi possível desenvolver
+todas as funcionalidades em Javascript.
+
+O código JS com certeza te ajudará bastante, pois está todo por funções,
+criei utilizando o conceito de orientação a objeto, então está fácil de reaproveitar o código no seu projeto.
 
 ### Funcionalidades:
 
